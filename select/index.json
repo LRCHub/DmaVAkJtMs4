@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "hectopascal",
+  "base_artist": "小糸 侑（CV：高田憂希） 七海燈子（CV：寿 美菜子）",
+  "createdAt": "2026-01-07T16:29:34.031376Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "hectopascal",
+      "artist": "小糸 侑(CV:高田憂希) 七海燈子(CV:寿 美菜子)",
+      "has_synced": true,
+      "path": "select/01_hectopascal_小糸_侑(CV_高田憂希)_七海燈子(CV_寿_美菜子).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "hectopascal",
+      "artist": "小糸 侑（CV：高田憂希） 七海燈子（CV：寿 美菜子）",
+      "has_synced": true,
+      "path": "select/02_hectopascal_小糸_侑(CV_高田憂希)_七海燈子(CV_寿_美菜子).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "hectopascal",
+      "artist": "小糸 侑(CV:高田憂希)",
+      "has_synced": true,
+      "path": "select/03_hectopascal_小糸_侑(CV_高田憂希).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "hectopascal",
+      "artist": "小糸 侑(CV:高田 憂希)",
+      "has_synced": true,
+      "path": "select/04_hectopascal_小糸_侑(CV_高田_憂希).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "hectopascal",
+      "artist": "小糸侑(CV:高田憂希) & 七海燈子(CV:寿美菜子)",
+      "has_synced": true,
+      "path": "select/05_hectopascal_小糸侑(CV_高田憂希)_&_七海燈子(CV_寿美菜子).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "hectopascal",
+      "artist": "小糸 侑(CV:高田 憂希) & 七海燈子(CV:寿 美菜子)",
+      "has_synced": true,
+      "path": "select/06_hectopascal_小糸_侑(CV_高田_憂希)_&_七海燈子(CV_寿_美菜子).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "hectopascal",
+      "artist": "小糸侑(CV:高田憂希)、七海燈子(CV:寿美菜子)",
+      "has_synced": true,
+      "path": "select/07_hectopascal_小糸侑(CV_高田憂希)、七海燈子(CV_寿美菜子).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "hectopascal",
+      "artist": "小糸侑(高田憂希), 七海燈子(寿美菜子)",
+      "has_synced": false,
+      "path": "select/pl_01_hectopascal_小糸侑(高田憂希),_七海燈子(寿美菜子).txt"
+    }
+  ]
+}
